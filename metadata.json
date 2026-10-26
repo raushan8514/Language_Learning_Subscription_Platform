@@ -1,0 +1,6 @@
+{
+  "name": "LingoPro - Language Learning & LMS Platform",
+  "description": "Master languages with interactive accredited courses, native audio dialogues, live classes, quizzes, and verified certificates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
